@@ -1,1 +1,1 @@
-# leetcode javscript
+# Leetcode Javscript
